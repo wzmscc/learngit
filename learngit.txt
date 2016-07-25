@@ -1,2 +1,4 @@
-Hello word git!
-			---wangzm
+Hello word!
+			---wangzming
+1.download git 
+2.install git 
