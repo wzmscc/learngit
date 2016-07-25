@@ -1,0 +1,4 @@
+Hello word!
+			---wangzhiming
+1.download git 
+2.install 
